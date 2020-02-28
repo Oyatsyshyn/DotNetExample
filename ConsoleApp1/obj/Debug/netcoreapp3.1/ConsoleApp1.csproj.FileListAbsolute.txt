@@ -1,0 +1,11 @@
+/Users/sashayatsyshyn/Desktop/с#/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1
+/Users/sashayatsyshyn/Desktop/с#/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.deps.json
+/Users/sashayatsyshyn/Desktop/с#/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.runtimeconfig.json
+/Users/sashayatsyshyn/Desktop/с#/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.runtimeconfig.dev.json
+/Users/sashayatsyshyn/Desktop/с#/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.dll
+/Users/sashayatsyshyn/Desktop/с#/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.pdb
+/Users/sashayatsyshyn/Desktop/с#/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csprojAssemblyReference.cache
+/Users/sashayatsyshyn/Desktop/с#/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/sashayatsyshyn/Desktop/с#/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.AssemblyInfo.cs
+/Users/sashayatsyshyn/Desktop/с#/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.dll
+/Users/sashayatsyshyn/Desktop/с#/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.pdb
