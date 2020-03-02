@@ -1,0 +1,11 @@
+/Users/sashayatsyshyn/Desktop/с#/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2
+/Users/sashayatsyshyn/Desktop/с#/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.deps.json
+/Users/sashayatsyshyn/Desktop/с#/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.runtimeconfig.json
+/Users/sashayatsyshyn/Desktop/с#/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.runtimeconfig.dev.json
+/Users/sashayatsyshyn/Desktop/с#/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.dll
+/Users/sashayatsyshyn/Desktop/с#/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.pdb
+/Users/sashayatsyshyn/Desktop/с#/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.csprojAssemblyReference.cache
+/Users/sashayatsyshyn/Desktop/с#/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.AssemblyInfoInputs.cache
+/Users/sashayatsyshyn/Desktop/с#/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.AssemblyInfo.cs
+/Users/sashayatsyshyn/Desktop/с#/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.dll
+/Users/sashayatsyshyn/Desktop/с#/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.pdb
